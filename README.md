@@ -3,5 +3,6 @@
   
   [![Libft](https://github.com/Rguilher/Rguilher/blob/main/42_badges/libfte.png)](https://github.com/Rguilher/libft)
   [![GNL](https://github.com/Rguilher/Rguilher/blob/main/42_badges/get_next_linem.png)](https://github.com/Rguilher/get_next_line)
+  [![GNL](https://github.com/Rguilher/Rguilher/blob/main/42_badges/ft_printfe.png)](https://github.com/Rguilher/Printf)
   
 </div>
